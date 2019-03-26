@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from Simulator import Simulator
 from System import System
 
